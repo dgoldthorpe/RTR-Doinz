@@ -1,1 +1,0 @@
-Get-WMIObject -class Win32_ComputerSystem | select usernam
