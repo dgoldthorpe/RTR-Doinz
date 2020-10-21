@@ -1,13 +1,12 @@
 # RTR
 
 These are the scripts I used when responding to CrowdStrike detections
-
- ------------------------------------------------------------------------------------------------------                                                                             
+                                                                               
                                        *.    ./                                 
                                        (      (                                 
                                     *(.  /((/.  /*                              
                                 (/                  /(                          
- #                         .(      (.         (      ,(.                     
+ #                         .(*      *(.         (*      ,(.                     
   /(*      /,          *(.      /(                  //      .(*                 
     /((.     ((             (*                          *(.      //             
       .(((,    /((                                          ,(,      *(.  (/*// 
@@ -33,6 +32,6 @@ These are the scripts I used when responding to CrowdStrike detections
                        /(       /(                  (/       (/                 
                            .(/      .(*        ,(,      *(.                     
                                 //                  //                          
-                                    ,(, ,(( ,(,                              
+                                    ,(, ,(**(* ,(,                              
                                        (      (                                 
                                        ,/    ,/                                 
